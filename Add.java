@@ -9,8 +9,8 @@ public class Add{
         int a=sc.nextInt();
         System.out.println("enter second number");
         int b=sc.nextInt();
-        int sum=a+b;
-        System.out.println("addition"+sum);
+        int su2m=a+b;
+        System.out.println("addition"+su2m);
 
     }
 }
